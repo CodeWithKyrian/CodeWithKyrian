@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kyrian Obikwelu 
 - 👀 I’m interested in programming of course (PHP, C# and Vue) , and basketball 🏀 
+- 😍 I'm in love with Laravel and PHP
 - 🌱 I’m currently learning Vue 3
 - 💞️ I’m looking to collaborate on any project that needs my creative mind
 - 📫 How to reach me +2349068766859 or kyrianobikwelu@gmail.com
